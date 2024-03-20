@@ -9,5 +9,5 @@ export default function Navbar() {
                 <ConnectWallet />
             </Flex>
         </Container>
-    );
+    );``
 }

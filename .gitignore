@@ -5,12 +5,16 @@
 /.pnp
 .pnp.js
 
+/constants
+
 # testing
 /coverage
 
 # next.js
 /.next/
 /out/
+
+/constants
 
 # production
 /build
